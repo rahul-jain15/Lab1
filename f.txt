@@ -1,0 +1,3 @@
+this is my first attempt on git
+i'm new to this
+all looks good till now
